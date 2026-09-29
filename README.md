@@ -53,3 +53,12 @@ I modified this README through a collaborator branch.
 - Method: Fork & Pull Request
 
 This contribution was created from a forked repository.
+
+
+## Fork Practice
+
+- Contributor: 이수 
+- Student ID: 2022732055
+- Method: Fork & Pull Request
+
+This contribution was created from a forked repository.
